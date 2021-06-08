@@ -1,0 +1,2 @@
+config is my name
+I dont want same with master
